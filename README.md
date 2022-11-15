@@ -1,2 +1,2 @@
-# Devop
+# DevOp
 For DevOps practice.
